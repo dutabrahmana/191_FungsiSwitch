@@ -59,7 +59,9 @@ int main()
             cout << "Hasil pengurangan: " << pengurangan(bilangan1, bilangan2) << endl;
             system("pause");
             break;
+        case 3:
+            inputData();
+            cout << "Hasil perkalian: " << perkalian(bilangan1, bilangan2) << endl;
+            system("pause");
+            break;
         
-
-
-}
