@@ -10,7 +10,9 @@ int pengurangan(int a, int b)
 {
     return a - b;
 }
-i
+int perkalian(int a, int b)
+{
+    return a * b;
 }
 
 
