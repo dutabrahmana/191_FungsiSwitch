@@ -69,4 +69,7 @@ int main()
             cout << "Hasil pembagian: " << pembagian(bilangan1, bilangan2) << endl;
             system("pause");
             break;
-        
+        case 5:
+            break;
+  
+}
