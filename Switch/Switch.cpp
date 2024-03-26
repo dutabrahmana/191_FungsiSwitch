@@ -54,5 +54,12 @@ int main()
             cout << "\Hasil penjumlahan: " << penjumlahan(bilangan1, bilangan2) << endl;
             system("pause");
             break;
+        case 2:
+            inputData();
+            cout << "Hasil pengurangan: " << pengurangan(bilangan1, bilangan2) << endl;
+            system("pause");
+            break;
         
+
+
 }
