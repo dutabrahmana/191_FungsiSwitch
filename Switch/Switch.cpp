@@ -30,6 +30,11 @@ void inputData()
 
 
 
-
+int main()
+{
+    int pilihan;
+    do
+    {
+        
 
 }
