@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikumKe5Pemdas", "PraktikumKe5Pemdas\PraktikumKe5Pemdas.vcxproj", "{38FCAB43-7DBC-44E3-AAE0-5C0A1D119EE0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Switch", "Switch\Switch.vcxproj", "{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{38FCAB43-7DBC-44E3-AAE0-5C0A1D119EE0}.Release|x64.Build.0 = Release|x64
 		{38FCAB43-7DBC-44E3-AAE0-5C0A1D119EE0}.Release|x86.ActiveCfg = Release|Win32
 		{38FCAB43-7DBC-44E3-AAE0-5C0A1D119EE0}.Release|x86.Build.0 = Release|Win32
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Debug|x64.ActiveCfg = Debug|x64
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Debug|x64.Build.0 = Debug|x64
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Debug|x86.Build.0 = Debug|Win32
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Release|x64.ActiveCfg = Release|x64
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Release|x64.Build.0 = Release|x64
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Release|x86.ActiveCfg = Release|Win32
+		{8A05EA1C-BE6D-4083-AFA0-1A47948EB543}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
