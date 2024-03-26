@@ -80,5 +80,5 @@ int main()
 
         } while (pilihan != 5); //!= adalah tidak sama dengan.
 
-
+        return 0;
 }
